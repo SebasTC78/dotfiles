@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = teston.sebastien@gmail.com
+	name = Sebastien Teston
